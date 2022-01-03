@@ -1,0 +1,104 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Domine&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Domine&display=swap");
+body {
+  background-color: #cbc28c;
+}
+.container {
+  display: inline;
+}
+.heading {
+  font-size: 3.5rem;
+  position: absolute;
+  left: 5%;
+  top: 16vh;
+}
+.icon {
+  width: 5rem;
+  position: absolute;
+  left: 94%;
+  top: 39vh;
+}
+.algorithms {
+  background-color: #1d3a31;
+  display: inline-block;
+  height: 64%;
+  position: absolute;
+  width: 49%;
+  padding: 22px;
+  left: 39%;
+  top: 19vh;
+  border-radius: 30px;
+}
+.Preemptive {
+  color: #24332e;
+  padding: 4px;
+  border: hidden;
+  width: 14em;
+  height: 3em;
+  position: absolute;
+  left: -7%;
+  top: 11vh;
+  font-weight: bolder;
+  font-size: 22px;
+  border-radius: 38px;
+  background: #cbc28c;
+  cursor: pointer;
+}
+.Non {
+  position: absolute;
+  left: -7%;
+  top: 43vh;
+}
+.user {
+  color: #151918;
+  padding: 4px;
+  border: hidden;
+  width: 9em;
+  height: 2em;
+  position: absolute;
+  left: 77%;
+  top: 3vh;
+  font-size: 24px;
+  border-radius: 38px;
+  background: #d69536;
+  cursor: pointer;
+}
+.guide {
+  width: 3rem;
+  position: absolute;
+  left: 73%;
+  top: 3vh;
+}
+.up {
+  width: 4rem;
+  position: absolute;
+  left: 28%;
+  top: 11vh;
+}
+.down {
+  width: 4rem;
+  position: absolute;
+  left: 29%;
+  top: 43vh;
+}
+.preemp {
+  color: aliceblue;
+  display: inline-block;
+  position: absolute;
+  left: 37%;
+  top: 13%;
+  font-weight: 700;
+  font-size: 27px;
+}
+.Nonp {
+  color: aliceblue;
+  display: inline-block;
+  position: absolute;
+  left: 37%;
+  top: 53%;
+  font-weight: 700;
+  font-size: 27px;
+}
+.table {
+  color: #d8ab69;
+}
